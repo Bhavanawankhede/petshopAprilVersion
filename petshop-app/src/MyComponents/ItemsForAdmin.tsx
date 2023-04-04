@@ -86,7 +86,7 @@ export default function ItemsForAdmin() {
               <StyledTableRow key={item.itemName}>
                 <StyledTableCell>
                   <img
-                    src={require("E:/PetShopWebsiteLatest/myfetminiprojectstuffonacer/Images/" +
+                    src={require("../../Images/" +
                       item.itemImage)}
                   />
                 </StyledTableCell>

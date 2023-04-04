@@ -67,7 +67,7 @@ export function StoreItemCategory({
       <Card>
         <CardMedia
           component="img"
-          image={require('E:/PetShopWebsiteLatest/myfetminiprojectstuffonacer/Images/' +
+          image={require('../../Images/' +
           itemCategoryImage)}
           style={Style}
         />

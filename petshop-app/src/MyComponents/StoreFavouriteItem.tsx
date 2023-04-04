@@ -100,7 +100,7 @@ export function StoreFavouriteItem({
       <Card>
         <CardMedia
           component="img"
-          image={require("E:/PetShopWebsiteLatest/myfetminiprojectstuffonacer/Images/" +
+          image={require("../../Images/" +
             itemImage)}
           style={Style}
         />
